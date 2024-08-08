@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Text, View } from 'react-native';
-import { CustomButton, CustomTextInput } from './component/ReusableComponent';
+import { CustomButton, CustomTextInput } from './component/ReusableComponents';
+
 
 export const Screen5 = () => {
     const [num1, setNum1] = useState('');

@@ -1,4 +1,4 @@
-// ReusableComponents.tsx
+
 import React from 'react';
 import { TouchableOpacity, Text, TextInput, TextInputProps, TouchableOpacityProps, StyleSheet } from 'react-native';
 

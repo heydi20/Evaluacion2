@@ -1,8 +1,9 @@
 import { useNavigation } from '@react-navigation/native';
 import React from 'react'
 import { Text, View } from 'react-native';
-import { CustomButton } from './component/ReusableComponent';
+
 import { StackNavigationProp } from '@react-navigation/stack';
+import { CustomButton } from './component/ReusableComponents';
 
 type RootStackParamList = {
     Screen1: undefined;

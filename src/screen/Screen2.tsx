@@ -5,9 +5,8 @@ export const Screen2 = () => {
     return (
         <View>
           <Image source={{
-            uri: 'https://p1.hiclipart.com/preview/169/1023/715/login-logo-user-users-group-customer-education-button-typeface-credential-png-clipart.jpg'}} />
+            uri: 'https://render.fineartamerica.com/images/rendered/square-dynamic/small/images/artworkimages/mediumlarge/3/buachaille-etive-mor-in-the-scottish-highlands-neale-clark.jpg'}} />
         </View>
       );
     };
   
-
