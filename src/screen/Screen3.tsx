@@ -5,7 +5,7 @@ export const Screen3 = () => {
     return (
         <View>
           <Image source={{
-            uri: 'https://p1.hiclipart.com/preview/169/1023/715/login-logo-user-users-group-customer-education-button-typeface-credential-png-clipart.jpg'}} />
+            uri: 'https://medicinaybelleza.com/wp-content/uploads/2018/08/paint-2985569_960_720-960x480.jpg'}} />
         </View>
       );
     };
