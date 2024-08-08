@@ -1,6 +1,6 @@
 import { useNavigation } from '@react-navigation/native';
 import React from 'react'
-import { Text, View } from 'react-native';
+import { Text, View, Image } from 'react-native';
 
 import { StackNavigationProp } from '@react-navigation/stack';
 import { CustomButton } from './component/ReusableComponents';
