@@ -11,7 +11,7 @@ import { Screen5 } from './src/screen/Screen5';
 
 const Stack = createStackNavigator();
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Screen1">
