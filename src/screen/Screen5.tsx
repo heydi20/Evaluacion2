@@ -33,8 +33,8 @@ export const Screen5 = () => {
           onChangeText={(text) => setNum2(text)}
           value={num2}
         />
-        <CustomButton label=">=" onPress={compareNumbers} />
-        <Text>{result}</Text>
+        
+        
       </View>
     );
   };
