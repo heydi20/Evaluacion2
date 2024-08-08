@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Text, View } from 'react-native';
-import { CustomButton, CustomTextInput } from './component/ReusableComponents';
+import { View } from 'react-native';
+import { CustomTextInput } from './component/ReusableComponents';
 
 
 export const Screen4 = () => {
