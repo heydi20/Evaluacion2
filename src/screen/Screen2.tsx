@@ -5,7 +5,7 @@ export const Screen2 = () => {
     return (
         <View>
           <Image source={{
-            uri: 'https://render.fineartamerica.com/images/rendered/square-dynamic/small/images/artworkimages/mediumlarge/3/buachaille-etive-mor-in-the-scottish-highlands-neale-clark.jpg'}} />
+            uri: 'https://th.bing.com/th/id/OIP.ZZqauDIRkcAAZsu9bxRuVwHaEK?rs=1&pid=ImgDetMain'}} />
         </View>
       );
     };
